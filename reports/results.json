@@ -1,0 +1,65 @@
+{
+  "evidence_type": "DERIVED",
+  "origin": "SIMULATED",
+  "project_metrics": {
+    "BAC": 311600000.0,
+    "PV": 199167844.76784477,
+    "EV": 152587084.37711364,
+    "AC": 168340868.03687352,
+    "CPI": 0.9064173551944074,
+    "SPI": 0.766123088568705,
+    "CV": -15753783.65975988,
+    "SV": -46580760.390731126,
+    "EAC": 343770999.3242223,
+    "outstanding_commitments": 103358395.15487614,
+    "committed_floor": 271699263.1917497,
+    "management_EAC": 343770999.3242223,
+    "VAC": -32170999.324222326,
+    "EAC_remaining_at_budget": 327353783.6597599,
+    "status_date": "2026-08-03",
+    "SPI_RAG": "RED",
+    "CPI_RAG": "AMBER",
+    "physical_progress_budget_weighted": 0.48968897425261115,
+    "route_miles_earned": 45.22921466280651,
+    "baseline_finish": "2027-01-04",
+    "stalled_packages": [
+      "S1-3",
+      "S1-4",
+      "S2-3",
+      "S2-4",
+      "S3-3",
+      "S4-3",
+      "S4-4"
+    ],
+    "latest_forecastable_finish": "2027-03-22",
+    "current_finish": "UNAVAILABLE: stalled packages",
+    "recovery_finish": "UNAVAILABLE: stalled packages",
+    "risk_exposure_gbp": 14300000.0,
+    "milestones_complete": 0,
+    "recovery_EAC": 357805409.82721025
+  },
+  "observed_context": {
+    "operations_rows": 96,
+    "infrastructure_rows": 79,
+    "latest_period": "Apr 2026 to Mar 2027 (Period 05)",
+    "latest_regional_delay_rates": {
+      "Eastern_periodic": 61.7,
+      "North West and Central_periodic": 71.8,
+      "Scotland_periodic": 30.1,
+      "Southern_periodic": 91.0,
+      "Wales and Western_periodic": 86.6
+    }
+  },
+  "assumptions": {
+    "seed": 2026,
+    "project": "Fictional Meridian Rail Expansion",
+    "route_miles": 68,
+    "start_date": "2026-01-05",
+    "status_week": 30,
+    "baseline_weeks": 52,
+    "recovery_productivity_multiplier": 1.25,
+    "recovery_cost_premium": 0.08,
+    "currency": "GBP",
+    "provenance": "SIMULATED"
+  }
+}

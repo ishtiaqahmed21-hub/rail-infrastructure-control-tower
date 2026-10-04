@@ -1,0 +1,10 @@
+seed: 2026
+project: Fictional Meridian Rail Expansion
+route_miles: 68
+start_date: 2026-01-05
+status_week: 30
+baseline_weeks: 52
+recovery_productivity_multiplier: 1.25
+recovery_cost_premium: 0.08
+currency: GBP
+provenance: SIMULATED

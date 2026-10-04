@@ -1,0 +1,7 @@
+risk_id,section,description,probability,impact_gbp,impact_band,owner,mitigation,due_date,evidence_type,exposure_gbp,probability_band,score,RAG,origin
+R01,S3,Possession access restricted,0.65,8000000.0,5,Construction manager,Agree alternative possession windows,2026-08-17,SIMULATED,5200000.0,4,20,RED,SIMULATED
+R02,S3,Electrification supply lead time,0.55,5000000.0,4,Supply chain manager,Reserve approved alternate supplier,2026-08-24,SIMULATED,2750000.0,3,12,AMBER,SIMULATED
+R03,S2,Station interface rework,0.35,3000000.0,3,Design manager,Close design interface reviews,2026-08-31,SIMULATED,1050000.0,2,6,GREEN,SIMULATED
+R04,ALL,Safety assurance approval delay,0.3,7000000.0,5,Assurance manager,Independent assurance readiness review,2026-09-07,SIMULATED,2100000.0,2,10,AMBER,SIMULATED
+R05,S4,Ground conditions at station,0.2,4000000.0,4,Geotechnical lead,Targeted ground investigation,2026-08-10,SIMULATED,800000.0,1,4,GREEN,SIMULATED
+R06,ALL,Signaling integration test failure,0.4,6000000.0,4,Systems manager,Early test rig integration,2026-09-14,SIMULATED,2400000.0,2,8,AMBER,SIMULATED

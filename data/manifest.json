@@ -1,0 +1,21 @@
+{
+  "access_date": "2026-09-28",
+  "sources": [
+    {
+      "file": "orr_3181a.html",
+      "url": "https://dataportal.orr.gov.uk/statistics/performance/passenger-rail-performance/table-3181a-delay-minutes-per-1-000-train-miles-total-by-network-rail-region-periodic-1/",
+      "sha256": "2b86455d707d40c711889a67ff5110a130d10ceaa1c7d1089826cc54df542558",
+      "bytes": 88026,
+      "license": "OGL v3.0",
+      "origin": "OBSERVED"
+    },
+    {
+      "file": "orr_6320.ods",
+      "url": "https://dataportal.orr.gov.uk/media/1528/table-6320-infrastructure-on-the-mainline.ods",
+      "sha256": "dc81d1b47955c58f45c6dac016a93fd89231907aac45d9335579979a4ac511e1",
+      "bytes": 13405,
+      "license": "OGL v3.0",
+      "origin": "OBSERVED"
+    }
+  ]
+}

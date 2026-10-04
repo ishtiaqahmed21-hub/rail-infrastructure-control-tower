@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+.cache/
+*.log
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
